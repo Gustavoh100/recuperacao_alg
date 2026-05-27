@@ -24,6 +24,7 @@ inicio
     escreval (" 3 - buscar pelo nome ")
     escreval (" 4 listar todas as reservas ")
     escreval (" 5 exibir total de reservas ativas  ")
+    escreval (" 6 para sair do programa ")
 
     leia(op)
 
